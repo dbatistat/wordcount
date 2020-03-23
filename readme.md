@@ -1,6 +1,6 @@
-#Word Count - Solution
+# Word Count - Solution
 
-##Assignment III - Functional programming
+## Assignment III - Functional programming
 
  Read the instructions in the attached file
 - Provide a github URL with the project repository (public access)
